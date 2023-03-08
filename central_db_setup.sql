@@ -11,9 +11,13 @@ mysqldump -u [username] -p [database name] > [database name].sql
 -- to import db
 mysql -u [username] -p newdatabase < [database name].sql
 
-GSC_MYSQL_USER=GSC_MYSQL_USER GSC_MYSQL_PWD=GSC_MYSQL_PWD GSC_MYSQL_HOST=localhost GSC_MYSQL_DB=central_system_db python3 -m web_dynamic.app
+GSC_MYSQL_USER=GSC_MYSQL_USER GSC_MYSQL_PWD=GSC_MYSQL_PWD GSC_MYSQL_HOST=localhost GSC_MYSQL_DB=central_system_db python3 -m api.v1.app
 
 -- to auto create the tables
 GSC_MYSQL_USER=GSC_MYSQL_USER GSC_MYSQL_PWD=GSC_MYSQL_PWD GSC_MYSQL_HOST=localhost GSC_MYSQL_DB=central_system_db python3
 from models import storage
 storage.reload()
+
+-- for gunicorn
+GSC_MYSQL_USER=GSC_MYSQL_USER GSC_MYSQL_PWD=GSC_MYSQL_PWD GSC_MYSQL_HOST=localhost GSC_MYSQL_DB=central_system_db gunicorn --bind 0.0.0.0:5004 api.v1:app
+tmux new-session -d 'gunicorn --bind 0.0.0.0:5004 api.v1:app'

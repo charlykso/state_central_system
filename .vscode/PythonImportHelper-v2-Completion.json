@@ -1,0 +1,678 @@
+[
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
+        "isExtraImport": true,
+        "detail": "api.v1.views",
+        "documentation": {}
+    },
+    {
+        "label": "requests,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests.",
+        "description": "requests.",
+        "detail": "requests.",
+        "documentation": {}
+    },
+    {
+        "label": "Property",
+        "importPath": "models.property",
+        "description": "models.property",
+        "isExtraImport": true,
+        "detail": "models.property",
+        "documentation": {}
+    },
+    {
+        "label": "Property",
+        "importPath": "models.property",
+        "description": "models.property",
+        "isExtraImport": true,
+        "detail": "models.property",
+        "documentation": {}
+    },
+    {
+        "label": "shortuuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shortuuid",
+        "description": "shortuuid",
+        "detail": "shortuuid",
+        "documentation": {}
+    },
+    {
+        "label": "SearchP",
+        "importPath": "api.v1.views.collectives.search_properties",
+        "description": "api.v1.views.collectives.search_properties",
+        "isExtraImport": true,
+        "detail": "api.v1.views.collectives.search_properties",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "Swagger",
+        "importPath": "flasgger",
+        "description": "flasgger",
+        "isExtraImport": true,
+        "detail": "flasgger",
+        "documentation": {}
+    },
+    {
+        "label": "swag_from",
+        "importPath": "flasgger.utils",
+        "description": "flasgger.utils",
+        "isExtraImport": true,
+        "detail": "flasgger.utils",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "scoped_session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "md5",
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "isExtraImport": true,
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "SearchP",
+        "kind": 6,
+        "importPath": "api.v1.views.collectives.search_properties",
+        "description": "api.v1.views.collectives.search_properties",
+        "peekOfCode": "class SearchP:\n    \"\"\"search class\"\"\"\n    def get(cls, unique_id):\n        \"\"\"\n        Returns the object based on the class name and its ID, or\n        None if not found\n        \"\"\"\n        if unique_id is None:\n            return None\n        all_cls = models.storage.all(cls)",
+        "detail": "api.v1.views.collectives.search_properties",
+        "documentation": {}
+    },
+    {
+        "label": "get_owners",
+        "kind": 2,
+        "importPath": "api.v1.views.owners",
+        "description": "api.v1.views.owners",
+        "peekOfCode": "def get_owners(owner_id=None):\n    \"\"\"\n    get all owners\n    or get any user with the owner_id that is passed\n    \"\"\"\n    new_list = []\n    key = \"Owner.\" + str(owner_id)\n    if owner_id is None:\n        objs = storage.all(Owner)\n        for key, value in objs.items():",
+        "detail": "api.v1.views.owners",
+        "documentation": {}
+    },
+    {
+        "label": "delete_owner",
+        "kind": 2,
+        "importPath": "api.v1.views.owners",
+        "description": "api.v1.views.owners",
+        "peekOfCode": "def delete_owner(owner_id=None):\n    \"\"\"\n    delete any peoperty owner that the owner_id is passed\n    \"\"\"\n    owner = storage.get(Owner, owner_id)\n    if owner is None:\n        abort(404)\n    owner.delete()\n    storage.save()\n    return jsonify({}), 200",
+        "detail": "api.v1.views.owners",
+        "documentation": {}
+    },
+    {
+        "label": "create_owner",
+        "kind": 2,
+        "importPath": "api.v1.views.owners",
+        "description": "api.v1.views.owners",
+        "peekOfCode": "def create_owner():\n    \"\"\"\n    create a new property owner\n    \"\"\"\n    if not request.get_json():\n        abort(400, \"Not a JSON\")\n    if \"email\" not in request.get_json():\n        abort(400, \"Missing email\")\n    if \"firstname\" not in request.get_json():\n        abort(400, \"Missing firstname\")",
+        "detail": "api.v1.views.owners",
+        "documentation": {}
+    },
+    {
+        "label": "update_owner",
+        "kind": 2,
+        "importPath": "api.v1.views.owners",
+        "description": "api.v1.views.owners",
+        "peekOfCode": "def update_owner(owner_id=None):\n    \"\"\"\n    update any property owner the id is passed\n    \"\"\"\n    owner = storage.get(Owner, owner_id)\n    if owner is None:\n        abort(404)\n    key = \"Owner.\" + str(owner_id)\n    if key not in storage.all(Owner).keys():\n        abort(404)",
+        "detail": "api.v1.views.owners",
+        "documentation": {}
+    },
+    {
+        "label": "get_properties_for_an_owner",
+        "kind": 2,
+        "importPath": "api.v1.views.properties",
+        "description": "api.v1.views.properties",
+        "peekOfCode": "def get_properties_for_an_owner(owner_id=None):\n    \"\"\"\n    get all properties that is associated to a property owner\n    \"\"\"\n    owner = storage.get(Owner, owner_id)\n    if owner is None:\n        abort(404)\n    new_list = []\n    for property in owner.properties:\n        new_list.append(property.to_dict())",
+        "detail": "api.v1.views.properties",
+        "documentation": {}
+    },
+    {
+        "label": "get_property",
+        "kind": 2,
+        "importPath": "api.v1.views.properties",
+        "description": "api.v1.views.properties",
+        "peekOfCode": "def get_property(property_id=None):\n    \"\"\"\n    retrieve one or all properties\n    \"\"\"\n    print(property_id)\n    new_list = []\n    key = \"Property.\" + str(property_id)\n    if property_id is None:\n        objs = storage.all(Property)\n        for key, value in objs.items():",
+        "detail": "api.v1.views.properties",
+        "documentation": {}
+    },
+    {
+        "label": "get_property_by_unique_id",
+        "kind": 2,
+        "importPath": "api.v1.views.properties",
+        "description": "api.v1.views.properties",
+        "peekOfCode": "def get_property_by_unique_id(unique_id):\n    \"\"\"\n    retrieve one properties\n    by passing the unique id\n    \"\"\"\n    print(\"God is good\")\n    print(unique_id)\n    new_list = []\n    if unique_id is None:\n        abort(400, \"Missing unique id\")",
+        "detail": "api.v1.views.properties",
+        "documentation": {}
+    },
+    {
+        "label": "delete_property",
+        "kind": 2,
+        "importPath": "api.v1.views.properties",
+        "description": "api.v1.views.properties",
+        "peekOfCode": "def delete_property(property_id=None):\n    \"\"\"\n    delete a property that the id was passed\n    \"\"\"\n    property = storage.get(Property, property_id)\n    if property is None:\n        abort(404)\n    property.delete()\n    storage.save()\n    return jsonify({}), 200",
+        "detail": "api.v1.views.properties",
+        "documentation": {}
+    },
+    {
+        "label": "create_property",
+        "kind": 2,
+        "importPath": "api.v1.views.properties",
+        "description": "api.v1.views.properties",
+        "peekOfCode": "def create_property(owner_id=None):\n    \"\"\"\n    create a property for a by it's owner\n    by using the user_id to select the user\n    \"\"\"\n    if storage.get(Owner, owner_id) is None:\n        abort(404)\n    if not request.get_json():\n        abort(400, \"Not a JSON\")\n    if storage.get(Owner, request.get_json()[\"owner_id\"]) is None:",
+        "detail": "api.v1.views.properties",
+        "documentation": {}
+    },
+    {
+        "label": "update_property",
+        "kind": 2,
+        "importPath": "api.v1.views.properties",
+        "description": "api.v1.views.properties",
+        "peekOfCode": "def update_property(property_id=None):\n    \"\"\"\n    update a property\n    by passing the property_id\n    \"\"\"\n    key = \"Property.\" + str(property_id)\n    if key not in storage.all(Property).keys():\n        abort(404)\n    property = storage.get(Property, property_id)\n    if property is None:",
+        "detail": "api.v1.views.properties",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "kind": 2,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "def close_db(error):\n    \"\"\" Close Storage \"\"\"\n    storage.close()\n@app.errorhandler(404)\ndef not_found(error):\n    \"\"\" 404 Error\n    ---\n    responses:\n      404:\n        description: a resource was not found",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "not_found",
+        "kind": 2,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "def not_found(error):\n    \"\"\" 404 Error\n    ---\n    responses:\n      404:\n        description: a resource was not found\n    \"\"\"\n    return make_response(jsonify({'error': \"Not found\"}), 404)\napp.config['SWAGGER'] = {\n    'title': 'Authentified Restful API',",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "app = Flask(__name__)\napp.config['JSONIFY_PRETTYPRINT_REGULAR'] = True\napp.register_blueprint(app_views)\ncors = CORS(app, resources={r\"/api/v1/*\": {\"origins\": \"*\"}})\n@app.teardown_appcontext\ndef close_db(error):\n    \"\"\" Close Storage \"\"\"\n    storage.close()\n@app.errorhandler(404)\ndef not_found(error):",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['JSONIFY_PRETTYPRINT_REGULAR']",
+        "kind": 5,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True\napp.register_blueprint(app_views)\ncors = CORS(app, resources={r\"/api/v1/*\": {\"origins\": \"*\"}})\n@app.teardown_appcontext\ndef close_db(error):\n    \"\"\" Close Storage \"\"\"\n    storage.close()\n@app.errorhandler(404)\ndef not_found(error):\n    \"\"\" 404 Error",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "cors",
+        "kind": 5,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "cors = CORS(app, resources={r\"/api/v1/*\": {\"origins\": \"*\"}})\n@app.teardown_appcontext\ndef close_db(error):\n    \"\"\" Close Storage \"\"\"\n    storage.close()\n@app.errorhandler(404)\ndef not_found(error):\n    \"\"\" 404 Error\n    ---\n    responses:",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SWAGGER']",
+        "kind": 5,
+        "importPath": "api.v1.app",
+        "description": "api.v1.app",
+        "peekOfCode": "app.config['SWAGGER'] = {\n    'title': 'Authentified Restful API',\n    'uiversion': 1\n}\nSwagger(app)\nif __name__ == \"__main__\":\n    \"\"\" Main Function \"\"\"\n    host = environ.get('GSC_API_HOST')\n    port = environ.get('GSC_API_PORT')\n    if not host:",
+        "detail": "api.v1.app",
+        "documentation": {}
+    },
+    {
+        "label": "DBStorage",
+        "kind": 6,
+        "importPath": "models.engine.db_storage",
+        "description": "models.engine.db_storage",
+        "peekOfCode": "class DBStorage:\n    \"\"\"interaacts with the MySQL database\"\"\"\n    __engine = None\n    __session = None\n    def __init__(self):\n        \"\"\"Instantiate a DBStorage object\"\"\"\n        GSC_MYSQL_USER = getenv('GSC_MYSQL_USER')\n        GSC_MYSQL_PWD = getenv('GSC_MYSQL_PWD')\n        GSC_MYSQL_HOST = getenv('GSC_MYSQL_HOST')\n        GSC_MYSQL_DB = getenv('GSC_MYSQL_DB')",
+        "detail": "models.engine.db_storage",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "models.engine.db_storage",
+        "description": "models.engine.db_storage",
+        "peekOfCode": "classes = {\"Property\": Property, \"Owner\": Owner}\nclass DBStorage:\n    \"\"\"interaacts with the MySQL database\"\"\"\n    __engine = None\n    __session = None\n    def __init__(self):\n        \"\"\"Instantiate a DBStorage object\"\"\"\n        GSC_MYSQL_USER = getenv('GSC_MYSQL_USER')\n        GSC_MYSQL_PWD = getenv('GSC_MYSQL_PWD')\n        GSC_MYSQL_HOST = getenv('GSC_MYSQL_HOST')",
+        "detail": "models.engine.db_storage",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "peekOfCode": "class BaseModel:\n    \"\"\"The BaseModel class from which future classes will be derived\"\"\"\n    id = Column(String(60), primary_key=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    updated_at = Column(DateTime, default=datetime.utcnow)\n    def __init__(self, *args, **kwargs):\n        \"\"\"Initialization of the base model\"\"\"\n        if kwargs:\n            for key, value in kwargs.items():\n                if key != \"__class__\":",
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 5,
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "peekOfCode": "time = \"%Y-%m-%dT%H:%M:%S.%f\"\nBase = declarative_base()\nclass BaseModel:\n    \"\"\"The BaseModel class from which future classes will be derived\"\"\"\n    id = Column(String(60), primary_key=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    updated_at = Column(DateTime, default=datetime.utcnow)\n    def __init__(self, *args, **kwargs):\n        \"\"\"Initialization of the base model\"\"\"\n        if kwargs:",
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "peekOfCode": "Base = declarative_base()\nclass BaseModel:\n    \"\"\"The BaseModel class from which future classes will be derived\"\"\"\n    id = Column(String(60), primary_key=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    updated_at = Column(DateTime, default=datetime.utcnow)\n    def __init__(self, *args, **kwargs):\n        \"\"\"Initialization of the base model\"\"\"\n        if kwargs:\n            for key, value in kwargs.items():",
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "kind": 6,
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "peekOfCode": "class Owner(BaseModel, Base):\n    \"\"\"Representation of owner model\"\"\"\n    __tablename__ = 'owners'\n    firstname = Column(String(128), nullable=False)\n    lastname = Column(String(128), nullable=False)\n    email = Column(String(128), nullable=False)\n    gender = Column(String(10), nullable=True)\n    phone_no = Column(String(20), nullable=False)\n    properties = relationship(\"Property\",\n                              backref=\"owner\",",
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Property",
+        "kind": 6,
+        "importPath": "models.property",
+        "description": "models.property",
+        "peekOfCode": "class Property(BaseModel, Base):\n    \"\"\"representing the property model\"\"\"\n    __tablename__ = \"properties\"\n    type = Column(String(20), nullable=False)\n    description = Column(String(255), nullable=False)\n    location = Column(String(100), nullable=False)\n    unique_id = Column(String(60), nullable=False)\n    owner_id = Column(String(60), ForeignKey('owners.id'), nullable=False)\n    def __init__(self, *args, **kwargs):\n        \"\"\"initializes a property\"\"\"",
+        "detail": "models.property",
+        "documentation": {}
+    }
+]

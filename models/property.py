@@ -12,6 +12,8 @@ class Property(BaseModel, Base):
     __tablename__ = "properties"
     type = Column(String(20), nullable=False)
     description = Column(String(255), nullable=False)
+    location = Column(String(100), nullable=False)
+    unique_id = Column(String(60), nullable=False)
     owner_id = Column(String(60), ForeignKey('owners.id'), nullable=False)
 
     def __init__(self, *args, **kwargs):
