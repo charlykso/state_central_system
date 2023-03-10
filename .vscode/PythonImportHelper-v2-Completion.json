@@ -33,7 +33,23 @@
         "documentation": {}
     },
     {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
         "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
         "importPath": "flask",
         "description": "flask",
         "isExtraImport": true,
@@ -129,38 +145,6 @@
         "documentation": {}
     },
     {
-        "label": "Owner",
-        "importPath": "models.owner",
-        "description": "models.owner",
-        "isExtraImport": true,
-        "detail": "models.owner",
-        "documentation": {}
-    },
-    {
-        "label": "Owner",
-        "importPath": "models.owner",
-        "description": "models.owner",
-        "isExtraImport": true,
-        "detail": "models.owner",
-        "documentation": {}
-    },
-    {
-        "label": "Owner",
-        "importPath": "models.owner",
-        "description": "models.owner",
-        "isExtraImport": true,
-        "detail": "models.owner",
-        "documentation": {}
-    },
-    {
-        "label": "Owner",
-        "importPath": "models.owner",
-        "description": "models.owner",
-        "isExtraImport": true,
-        "detail": "models.owner",
-        "documentation": {}
-    },
-    {
         "label": "app_views",
         "importPath": "api.v1.views",
         "description": "api.v1.views",
@@ -185,12 +169,11 @@
         "documentation": {}
     },
     {
-        "label": "requests,",
-        "kind": 6,
+        "label": "app_views",
+        "importPath": "api.v1.views",
+        "description": "api.v1.views",
         "isExtraImport": true,
-        "importPath": "requests.",
-        "description": "requests.",
-        "detail": "requests.",
+        "detail": "api.v1.views",
         "documentation": {}
     },
     {
@@ -207,6 +190,118 @@
         "description": "models.property",
         "isExtraImport": true,
         "detail": "models.property",
+        "documentation": {}
+    },
+    {
+        "label": "Property",
+        "importPath": "models.property",
+        "description": "models.property",
+        "isExtraImport": true,
+        "detail": "models.property",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "Owner",
+        "importPath": "models.owner",
+        "description": "models.owner",
+        "isExtraImport": true,
+        "detail": "models.owner",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
         "documentation": {}
     },
     {
@@ -280,54 +375,6 @@
         "description": "flasgger.utils",
         "isExtraImport": true,
         "detail": "flasgger.utils",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "Base",
-        "importPath": "models.base_model",
-        "description": "models.base_model",
-        "isExtraImport": true,
-        "detail": "models.base_model",
         "documentation": {}
     },
     {
@@ -466,6 +513,33 @@
         "description": "api.v1.views.collectives.search_properties",
         "peekOfCode": "class SearchP:\n    \"\"\"search class\"\"\"\n    def get(cls, unique_id):\n        \"\"\"\n        Returns the object based on the class name and its ID, or\n        None if not found\n        \"\"\"\n        if unique_id is None:\n            return None\n        all_cls = models.storage.all(cls)",
         "detail": "api.v1.views.collectives.search_properties",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "kind": 2,
+        "importPath": "api.v1.views.index",
+        "description": "api.v1.views.index",
+        "peekOfCode": "def status():\n    \"\"\"get the api status\"\"\"\n    return jsonify({\"status\": \"OK\"})\n@app_views.route(\"/stats\", methods=['GET'],\n                 strict_slashes=False)\ndef stats():\n    \"\"\"get the stats of the models\"\"\"\n    obj_count = {}\n    for key, value in classes.items():\n        obj_count[key] = storage.count(value)",
+        "detail": "api.v1.views.index",
+        "documentation": {}
+    },
+    {
+        "label": "stats",
+        "kind": 2,
+        "importPath": "api.v1.views.index",
+        "description": "api.v1.views.index",
+        "peekOfCode": "def stats():\n    \"\"\"get the stats of the models\"\"\"\n    obj_count = {}\n    for key, value in classes.items():\n        obj_count[key] = storage.count(value)\n    return jsonify(obj_count)\nif __name__ == '__main__':\n    pass",
+        "detail": "api.v1.views.index",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "api.v1.views.index",
+        "description": "api.v1.views.index",
+        "peekOfCode": "classes = {\n\t\"properties\": Property,\n\t\"owners\": Owner,\n}\n@app_views.route(\"/status\", methods=['GET'],\n                 strict_slashes=False)\ndef status():\n    \"\"\"get the api status\"\"\"\n    return jsonify({\"status\": \"OK\"})\n@app_views.route(\"/stats\", methods=['GET'],",
+        "detail": "api.v1.views.index",
         "documentation": {}
     },
     {

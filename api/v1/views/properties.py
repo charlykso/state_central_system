@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """Objects for properties """
 
-# import urllib.request, json
-import requests, json
 from models.owner import Owner
 from models.property import Property
 from models import storage
